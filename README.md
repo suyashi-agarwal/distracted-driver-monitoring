@@ -2,14 +2,16 @@
 
 ## 📖 About the Project
 
-[cite_start]This project is an end-to-end machine learning pipeline designed to enhance road safety by detecting mobile phone usage by drivers in real-time[cite: 3]. [cite_start]Leveraging a state-of-the-art YOLOv8 deep learning model, the system processes in-cabin visual data to identify signs of distraction, providing a foundation for creating timely alerts[cite: 4, 51]. [cite_start]The pipeline covers the entire ML lifecycle, from data preprocessing and model training to evaluation, adhering to MLOps principles for maintainability and continuous improvement[cite: 34].
+This project is an end-to-end machine learning pipeline designed to enhance road safety by detecting mobile phone usage by drivers in real-time.
+Leveraging a state-of-the-art YOLOv8 deep learning model, the system processes in-cabin visual data to identify signs of distraction, providing a foundation for creating timely alerts.
+The pipeline covers the entire ML lifecycle, from data preprocessing and model training to evaluation, adhering to MLOps principles for maintainability and continuous improvement.
 
 ## ✨ Key Features
 
 * **Real-time Distraction Detection**: Trained to identify drivers using a mobile phone.
-* [cite_start]**State-of-the-Art Model**: Utilizes the YOLOv8 architecture, which is recognized for its high accuracy and speed[cite: 51].
-* [cite_start]**Data Processing Pipeline**: Includes Python scripts for preprocessing raw visual data, including denoising and resizing, to prepare it for training[cite: 81, 85, 87].
-* [cite_start]**Ethical Considerations**: The project acknowledges the importance of ethical AI, including data privacy and the prevention of algorithmic bias[cite: 6].
+* **State-of-the-Art Model**: Utilizes the YOLOv8 architecture, which is recognized for its high accuracy and speed[cite: 51].
+* **Data Processing Pipeline**: Includes Python scripts for preprocessing raw visual data, including denoising and resizing, to prepare it for training.
+* **Ethical Considerations**: The project acknowledges the importance of ethical AI, including data privacy and the prevention of algorithmic bias.
 
 ## 🛠️ Technologies Used
 
@@ -68,7 +70,7 @@ Here are the steps to set up and run this project locally.
 
 ## 📈 Future Work
 
-[cite_start]The operationalization of this system would require a strong commitment to MLOps principles[cite: 228]. Future steps include:
-* [cite_start]**Deployment**: Containerizing the application using Docker for deployment on an embedded system or cloud service[cite: 168].
-* [cite_start]**Continuous Monitoring**: Implementing a monitoring system to track model performance and detect data drift over time[cite: 170, 171].
-* [cite_start]**Automated Retraining**: Establishing a CI/CD pipeline for automatically retraining and deploying the model when performance degrades[cite: 187, 188].
+The operationalization of this system would require a strong commitment to MLOps principles. Future steps include:
+* **Deployment**: Containerizing the application using Docker for deployment on an embedded system or cloud service[cite: 168].
+* **Continuous Monitoring**: Implementing a monitoring system to track model performance and detect data drift over time[cite: 170, 171].
+* **Automated Retraining**: Establishing a CI/CD pipeline for automatically retraining and deploying the model when performance degrades[cite: 187, 188].
