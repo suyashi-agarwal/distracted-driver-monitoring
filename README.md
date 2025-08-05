@@ -1,14 +1,17 @@
 # In-Cabin Driver Monitoring for Phone Distraction Detection
 
+
+
 ## 📖 About the Project
 
 This project is an end-to-end machine learning pipeline designed to enhance road safety by detecting mobile phone usage by drivers in real-time.
 Leveraging a state-of-the-art YOLOv8 deep learning model, the system processes in-cabin visual data to identify signs of distraction, providing a foundation for creating timely alerts.
 The pipeline covers the entire ML lifecycle, from data preprocessing and model training to evaluation, adhering to MLOps principles for maintainability and continuous improvement.
 
+For more detailed documentation and project planning, please visit  **[Project Notion Page](https://www.notion.so/Driver-Monitoring-v1-2414999cae56807eae13fb3afdc56d96)**.
 ## ✨ Key Features
 
-* **Real-time Distraction Detection**: Trained to identify drivers using a mobile phone.
+* **Real-time Distraction Detection**: Trained to identify drivers using a mobile phone and whether they are wearing a seatbelt or not.
 * **State-of-the-Art Model**: Utilizes the YOLOv8 architecture, which is recognized for its high accuracy and speed[cite: 51].
 * **Data Processing Pipeline**: Includes Python scripts for preprocessing raw visual data, including denoising and resizing, to prepare it for training.
 * **Ethical Considerations**: The project acknowledges the importance of ethical AI, including data privacy and the prevention of algorithmic bias.
