@@ -1,0 +1,17 @@
+# Python virtual environment
+venv/
+
+# Datasets (Raw and Processed)
+# These are too large and can be downloaded separately.
+data/
+
+# Ultralytics runs, logs, and trained models
+# The final model can be shared separately if needed (see note below).
+runs/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# IDE-specific files (for PyCharm)
+.idea/
