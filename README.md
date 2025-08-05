@@ -53,7 +53,7 @@ Here are the steps to set up and run this project locally.
     pip install opencv-python ultralytics
     ```
 4.  **Download the Data:**
-    * Download the required dataset from [Link to your dataset source, e.g., Roboflow].
+    * Download the required dataset from https://www.kaggle.com/c/state-FARM-distracted-driver-detection.
     * Place the data in the `data/raw/` directory according to the structure specified in the `prepare_data.py` script.
 
 ### 3. Usage
