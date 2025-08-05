@@ -12,7 +12,7 @@ For more detailed documentation and project planning, please visit  **[Project N
 ## ✨ Key Features
 
 * **Real-time Distraction Detection**: Trained to identify drivers using a mobile phone and whether they are wearing a seatbelt or not.
-* **State-of-the-Art Model**: Utilizes the YOLOv8 architecture, which is recognized for its high accuracy and speed[cite: 51].
+* **State-of-the-Art Model**: Utilizes the YOLOv8 architecture, which is recognized for its high accuracy and speed.
 * **Data Processing Pipeline**: Includes Python scripts for preprocessing raw visual data, including denoising and resizing, to prepare it for training.
 * **Ethical Considerations**: The project acknowledges the importance of ethical AI, including data privacy and the prevention of algorithmic bias.
 
