@@ -1,5 +1,7 @@
 # In-Cabin Driver Monitoring for Phone Distraction Detection
+### 🎥 Demo Video
 
+[![Watch the demo video](https://github.com/suyashi-agarwal/distracted-driver-monitoring/blob/main/demo_thumbnail.png)](https://drive.google.com/file/d/1iG5gxCYHgM8SMmmCD8QUvHeApCnwNCI_/view?usp=sharing)
 
 
 ## 📖 About the Project
